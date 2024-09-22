@@ -1,7 +1,7 @@
 Tiffany Yan
 
-This is my miniproject 2
+I did MP2 about making a calculator, including two main files and three util(cipherUtils) file. One of the main file takes in command line arguments for operation, while another takes in user inputs
 
-I have asked help from the evening tutors
+I have asked help from the evening tutors.
 
-https://github.com/yantiffa/MP2
+The link to the gitHub is:https://github.com/yantiffa/MP2.git
